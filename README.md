@@ -1,6 +1,6 @@
 Basically this project is a CRUD, which allows me to add, modify, show and delete data about specific products. These data are the id, name, price and quantity of each product,
 this data is added manually using logic related to the use of the JOPtionPane class, also through a menu, we can choose which of the above mentioned functions to perform within our application. 
-our application. Since the application is not oriented to obtain from a database, the information about the products, as it is commonly done with CRUD, it is only a didactic sample of the use of 
+Since the application is not oriented to obtain from a database, the information about the products, as it is commonly done with CRUD, it is only a didactic sample of the use of 
 methods and programming logic to be able to make a CRUD in console. In addition there is a method that allows me to make a data transfer from my console to an xlsx format, or more known as 
 excel. Since in this method we create a book, a sheet, and more cell formats to be able to show all the information that is in the simulated table in my console application.
 
